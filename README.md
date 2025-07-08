@@ -46,3 +46,20 @@ There are **three roles** with different capabilities:
 - **Database**: MongoDB
 - **Authentication**: JWT-based with Role-Based Access Control
 - **Real-time**: Socket.IO
+
+---
+
+## 🔑 Dummy Credentials
+
+You can use the following dummy accounts to try the deployed app:
+
+| Role                | Email                       | Password     |
+| ------------------- | --------------------------- | -----------  |
+| **Admin**           | `admin@gmail.com`        | `Admin@1234`   |
+| **Project Manager** | `manager@gmail.com`      | `Manager@1234` |
+| **User**            | `user@gmail.com`         | `User@1234`    |
+
+Visit the deployed app here:  
+👉 [Live Demo](https://project-management-system-mitul.vercel.app/)
+
+---
